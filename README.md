@@ -1,4 +1,4 @@
-Vestis PCP
+PCP - Vestuário
 ============
 
 PCP - Planejamento e Controle da Produção.
